@@ -1,0 +1,27 @@
+1 VERSIONINFO 
+FILEVERSION 1,2024,1,100 
+PRODUCTVERSION 1,2024,1,100 
+FILEOS VOS__WINDOWS32 
+FILETYPE VFT_APP 
+BEGIN 
+   BLOCK "StringFileInfo" 
+   BEGIN 
+      BLOCK "040904E4" 
+      BEGIN 
+         VALUE "CompanyName", "A.S. Sistemas de Informática Ltda\000" 
+         VALUE "FileDescription", "Projeto Teste\000" 
+         VALUE "FileVersion", "1.2024.1.100\000" 
+         VALUE "InternalName", "ProjetoTeste.EXE\000" 
+         VALUE "LegalCopyright", "AnSata Informática Ltda\000" 
+         VALUE "LegalTrademarks", "VERUS\000" 
+         VALUE "OriginalFilename", "ProjetoTeste\000" 
+         VALUE "ProductName", "ProjetoTeste\000" 
+         VALUE "ProductVersion", "1\000" 
+         VALUE "Comments", "AnSata Informática Ltda.     Rua Duque de Caxias, 767, São Francisco · C.E.P. 80.530-040 · Curitiba - Paraná.  Fone/Fax (041) 3078-2940 e-mail: suporte@ansata.com.br web: www.ansata.com.br\000" 
+      END 
+   END 
+   BLOCK "VarFileInfo" 
+   BEGIN 
+      VALUE "Translation", 0x0416 0x04E4 
+   END 
+END 
